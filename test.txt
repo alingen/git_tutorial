@@ -1,4 +1,0 @@
-Hello Hello!
-Git status
-apple apple
-
